@@ -2764,7 +2764,7 @@
 			.box.highlight {
 				text-align: center;
 				position: relative;
-				padding-left: 7em;
+				padding-left: 0em;
 			}
 
 				.box.highlight i {
