@@ -2175,7 +2175,7 @@
 		ul.menu li:first-child {
 			border-left: 0;
 			margin-left: 0;
-			padding-left: 0;
+		
 			padding-right: 5ex;
 		}
 
