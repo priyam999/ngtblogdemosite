@@ -2176,6 +2176,7 @@
 			border-left: 0;
 			margin-left: 0;
 			padding-left: 0;
+			padding-right: 5ex;
 		}
 
 /* Tables */
